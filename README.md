@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C# and .NET
+- 💬 Ask me about SQL, SAS, & R
 - 😄 Pronouns: She/Her/Hers
 <!--
 **LigerExpress/LigerExpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
