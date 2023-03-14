@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning C# and .NET
-- 💬 Ask me about SQL, SAS, & R
-- 😄 Pronouns: She/Her/Hers
+- 🌱 I’m currently use SQL moderately and R more most of my work is in Tableau
+- 💬 Ask me about SQL, SAS, & R, this is what I have used in the past
+
 <!--
 **LigerExpress/LigerExpress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
